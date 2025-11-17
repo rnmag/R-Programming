@@ -1,4 +1,4 @@
-# R-Workshop
+# R-Programming
 
 ![](https://github.com/rnmag/R-Workshop/blob/main/gapminder.gif)
 
